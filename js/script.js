@@ -3,7 +3,7 @@
 window.addEventListener('beforeunload', function (e) {
   // Check if the "tabclose" item in localStorage is set to true
 
-      var confirmationMessage = 'Are you sure you want to leave?';
+      var confirmationMessage = 'pdiddy is coming?';
 
       // Display a custom confirmation dialog
       if (!window.confirm(confirmationMessage)) {
